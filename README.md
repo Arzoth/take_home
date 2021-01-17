@@ -1,24 +1,11 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 
+ * these tests will not pass however the steps I have take should give a clear picture of what I did
+ 
+ * i created a rails app
+ * installed rspec, capybara, site prism 
+ * created 1 page object where I could keep all my elements and methods 
+ * created 1 feature file, added 1 scenario only 
+ * scenarios are very human readable , this is the use of page object modal where methods are very readable. 
+ 
+ 
